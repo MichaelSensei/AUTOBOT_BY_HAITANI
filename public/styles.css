@@ -4,7 +4,7 @@ body {
      font-family: 'monospace', bold;
 }
  .container {
-     background-color: #00f00f;
+     background-color: #0000ff;
      border-radius: 10px;
      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
      padding: 20px;
@@ -89,7 +89,7 @@ body {
 }
 
 .form-check:hover {
-  background-color: #0000ff; 
+  background-color: #00ff02; 
   border-color: #333; 
 }
 
