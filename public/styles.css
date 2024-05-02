@@ -4,7 +4,7 @@ body {
      font-family: 'monospace', bold;
 }
  .container {
-     background-color: #COCOCO;
+     background-color: #C0C0C0;
      border-radius: 10px;
      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
      padding: 20px;
@@ -12,10 +12,10 @@ body {
      margin-bottom: 20px;
 }
  h1 {
-     color: #ffffff;
+     color: #C0C0C0;
 }
  label {
-     color: #COCOCO;
+     color: #C0C0C0;
 }
  .centered-textarea {
      display: block;
