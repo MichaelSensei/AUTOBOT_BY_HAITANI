@@ -1,11 +1,12 @@
 body {
      padding: 20px;
      background-color: #FFD700;
-     backgroung-color: https://i.ibb.co/SKcxNZY/image.jpg 
+     backgroung-image: https://i.ibb.co/SKcxNZY/image.jpg 
      font-family: 'monospace', bold;
 }
  .container {
      background-color: #FFD700;
+     background-image: https://i.ibb.co/SKcxNZY/image.jpg
      border-radius: 10px;
      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
      padding: 20px;
