@@ -15,7 +15,7 @@ body {
      color: #ffffff;
 }
  label {
-     color: #C0C0C0;
+     color: #ffffff;
 }
  .centered-textarea {
      display: block;
@@ -89,7 +89,7 @@ body {
 }
 
 .form-check:hover {
-  background-color: #0000ff; 
+  background-color: #ffffff; 
   border-color: #333; 
 }
 
